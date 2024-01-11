@@ -1,0 +1,262 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+site:
+  theme_skin: turquoise
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Luis Fernando Bustos Ramírez
+    tagline: iOS Technical Lead
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: lufe.bura@gmail.com
+    phone: 55 1623 4227
+    timezone: America/Toluca Timezone
+    citizenship:
+    website: diariodeundesarrollador.com #do not add http://
+    linkedin: lufe-bura
+    xing: 
+    github: f3rn4d0n
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@fernandobustosr'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: assets/pdf/Resume_Fernando_Bustos.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Videogames
+          link:
+
+        - item: Crossfit
+          link:
+
+        - item: Travel
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      iOS Developer with more than 10 years of experience, I love knowing how technology works and learn new technologies, continually looking for new challenges and growing.
+      
+      Besides besign an iOS developer at heart, I continue to learn and practice how others techonology works, creating my own backend services or replicated my features in Andriod, using technologies such as django, fastapi, kotlin, html, css, javascript, node.js, postgress and docker to improve my skills
+      
+      All developer need to know how a company works, and I'm no exception, we must be ready to communicate with others to get best result for any project we are working on
+education:
+    title: Education
+    info:
+      - degree: Bachelor's degree in computer engineering
+        university: Universidad Nacional Autónoma de México
+        time: 2020 - 2015
+        details: | 
+
+experiences:
+    title: Experiences
+    info:
+      - role: iOS Payments Technical Lead
+        time: 2020 - 2024
+        company: Konfio
+        details: |
+          Developt and certificate a new payment module that allows payments to be mande through contactless or chip payment using EMV standards and certificated by LACPI, PROSA, VISA, Mastercard and Visa.
+          
+          Integrate the business module and core of SrPago within the Konfio ecosystem.
+          
+          Maintain and develop new features in Konfio app where you can apply for loans to improve your small or medium business.
+          
+          Among my main functions were:
+            - Create third-party documentation about how integrate our SDK
+            - Create documentation for developers about all features included in Konfio project
+            - Working with physical reader in low level code
+            - Working with creating a new SrPago’s version with VIPER architecture
+            - Develop new app features using Clean code and SOLID principles
+            - Control the development flow with SCRUM as agile technology
+            - Management of app store and TestFlight
+            - Customer support
+            - Work as an incident commander preventing bugs and trouble in our app or services through Mixpanel, NewRelic and AWS Cloudwatch
+            - Publish payment's SDK in Cocoapods
+            - Ensure best programming standards throws using templates, SwiftLint, Merge Request and Pair programming
+            - Implement CI and CD with Bitrise, Fastlane and Waldo
+            - Management of AB testing and feature flag with Firebase
+            - Add Unit Testing and UITesting
+
+      - role: iOS Team Leader
+        time: 2016 - 2020
+        company: Ituran
+        details: |
+          I developed the OnStar (Brasil and Argentina), ChevyStar (Colombia and Ecuador), Nissan (México, Colombia and Ecuador) and Renault (México) applications. By allowing you to be in control of your vehicle's doors, let you find the location of your car, get information about the wheel’s pressure, fuel level, create speed alert and control your vehicle’s lights. In the first reviews of the app they had navigation with TomTom’s maps.
+
+          Among my main functions were:
+            - Migrate from TomTom maps to Google maps.
+            - Manage the security of user information saved in our local and remote database, encrypting all the sensitive information with SHA256 algorithm and use policy password in all consume of web services.
+            - Control of Bitbucket and Subversion repositories.
+            - Create the software architecture and manage the design patter of the apps (mainly with MVC, MVP and VIPER)
+            - Create our own frameworks of our project to easily reuse code between projects.
+            - Manage the control of each application in their respective store.
+            - Create widgets and prototypes for apple watch.
+            - Create app groups for apple watch and widgets.
+
+      - role: Freelance iOS / Web developer
+        time: 2017 - Actual
+        company: None
+        details: |
+          Support in the development of College One apps in which my main functions were:
+          - Integration of the Stripe API for handling payments AWS and AWSSNS
+          - integration for handling Amazon push notifications.
+          - Management of multiple targets for the compilation of several versions of the app.
+          - Create cloud functions and database in Firebase
+          - Framework control using Cocoa Pods
+
+      - role: Mobile Developer
+        time: 2015 - 2016
+        company: Estrategia Tecnológica
+        details: |
+          Developer mobile application and multi platform with Mobile First Platform of IBM, developer of web services with SQL and Cold Fusion, versions controller with Visual Source Safe, iOS developer, I worked with beacons and multidisciplinary teams.
+
+          I had made Ibero Móvil app for iOS, Android and Windows Phone, with his web services, which let the students know his academic situation, make payments, know the IBERO bus ways more closer, renew books, know advertisement and events on the university.
+
+      - role: iOS Developer
+        time: 2014 - 2015
+        company: Manguito
+        details: |
+          Applications Developer and business systems with REST technologies, versions control, beacons, weapons for the errors management, cloud code, use of externs apis like mandrill, import.io, google maps, aviary among others.
+          Developer of Bembo app for iOS, which allow the handling of bonuses and loyalty programs with help of passbook for the little and big companies. 
+          Backend develop of MDT system with Parse and Javascript.
+
+      - role: iOS Developer
+        time: 2013 - 2014
+        company: UNAM Mobile
+        details: |
+          Application development with innovative technologies like speech recognition, second screen, Geolocation and reality augmented on iOS devices; lecturer and instructor.
+  
+          I have made the app TellMeColors which allowed recognition the names of colours in english.
+
+          I have made the beta version of Futline that allowed interactions with the football games in real time using second screen technology.
+
+          Maintenance the app misAvisos for iOS7 which is an app for the National System of Civil Protection for help people in naturals disasters.
+          
+          Instructor of courses basic IOS.
+          
+          Lecturer in the Tour University Mobile 2013 in Monterrey announcing the app Futline.
+
+#certifications:
+#      title: 
+#      list:
+#        - name: CV Builder
+#          start: 2020
+#          end: 2021
+#          organization: Microsoft
+#          credentialid: 111-222
+#          credentialurl: www.google.com
+#          credentialname: Google
+#          details: |
+#            Details about cert. Lorem ipsum dolor sit amet, consectetur
+#            adipiscing elit.
+#            Nullam eget orci purus. Nullam ultrices neque nibh.
+#            Aenean fermentum, felis vulputate suscipit accumsan,
+
+projects:
+    title: Projects
+    intro: >
+      Some of the projects in which I participated are:
+    assignments:
+      - title: Konfio
+        link: https://apps.apple.com/mx/app/konfío/id1499151815
+        tagline: "App where you can apply for loans to improve your small or medium business"
+
+      - title: SrPago
+        link: https://apps.apple.com/mx/app/sr-pago-desliza-y-cobra/id636374371?l=en
+        tagline: "Make payments with chip card and receive your earnings one day later"
+
+      - title: Payments SDK
+        link: https://github.com/srpago/srpago_pods/tree/feature/DemoV2
+        tagline: "iOS SDK with which you can enjoy the benefits of Konfio Payments"
+
+      - title: Nissan Connect Finder
+        link: https://apps.apple.com/mx/app/nissanconnect-finder/id1094901152
+        tagline: "Know where your vehicles are and be safe about the status of your vehicle"
+
+      - title: Chevystar
+        link: https://apps.apple.com/mx/app/chevystar/id560799251
+        tagline: "Know where your vehicles are and be safe about the status of your vehicle"
+
+      - title: Ituran con seguro
+        link: https://apps.apple.com/mx/app/ituran-con-seguro/id1509494944
+        tagline: "Know where your vehicles are and be safe about the status of your vehicle"
+
+      - title: CollegeOne
+        link: https://apps.apple.com/us/developer/collegueone-llc/id1455923437
+        tagline: "Stay in touch with your children's teachers and know how they are doing at their school"
+#
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Swift
+        level: 90%
+
+      - name: Objective-C
+        level: 80%
+
+      - name: Python
+        level: 50%
+
+      - name: Kotlin
+        level: 50%
+
+      - name: Javascript
+        level: 30%
+
+      - name: Postgress
+        level: 30%
+
+      - name: SQL
+        level: 30%
+
+      - name: Ruby
+        level: 10%
+
+footer: >
+    Designed with <i class="fas fa-magic"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
