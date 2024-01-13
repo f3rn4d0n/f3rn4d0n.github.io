@@ -59,9 +59,9 @@ career-profile:
     summary: |
       iOS Developer with more than 10 years of experience, I love knowing how technology works and learn new technologies, continually looking for new challenges and growing.
       
-      Besides besign an iOS developer at heart, I continue to learn and practice how others techonology works, creating my own backend services or replicated my features in Andriod, using technologies such as django, fastapi, kotlin, html, css, javascript, node.js, postgress and docker to improve my skills
+      Besides being an iOS developer at heart, I continue to learn and practice how other technologies work, creating my own backend services or replicated some iOS features in Andriod, using technologies such as django, fastapi, kotlin, html, css, javascript, node.js, postgress and docker to improve my skills.
       
-      All developer need to know how a company works, and I'm no exception, we must be ready to communicate with others to get best result for any project we are working on
+      All developer need to know how a company works, and I'm no the exception, I know how to communicate with others areas to obtain the best result in any project we are working on.
 education:
     title: Education
     info:
@@ -77,18 +77,18 @@ experiences:
         time: 2020 - 2024
         company: Konfio
         details: |
-          Developt and certificate a new payment module that allows payments to be mande through contactless or chip payment using EMV standards and certificated by LACPI, PROSA, VISA, Mastercard and Visa.
+          Develop and certificate a new payment module that allows payments to be mande through contactless or chip payment using EMV standards and certificated by LACPI, PROSA, VISA, Mastercard and AMEX.
           
-          Integrate the business module and core of SrPago within the Konfio ecosystem.
+          Integrate the business module and core of Sr.Pago within the Konfio ecosystem.
           
           Maintain and develop new features in Konfio app where you can apply for loans to improve your small or medium business.
           
           Among my main functions were:
             - Create third-party documentation about how integrate our SDK
             - Create documentation for developers about all features included in Konfio project
-            - Working with physical reader in low level code
-            - Working with creating a new SrPago’s version with VIPER architecture
-            - Develop new app features using Clean code and SOLID principles
+            - Work with physical reader in low level code
+            - Work with creating a new SrPago's version with VIPER architecture
+            - Develop new app features using Clean Code and SOLID principles
             - Control the development flow with SCRUM as agile technology
             - Management of app store and TestFlight
             - Customer support
@@ -121,7 +121,7 @@ experiences:
         details: |
           Support in the development of College One apps in which my main functions were:
           - Integration of the Stripe API for handling payments AWS and AWSSNS
-          - integration for handling Amazon push notifications.
+          - Integration for handling Amazon push notifications.
           - Management of multiple targets for the compilation of several versions of the app.
           - Create cloud functions and database in Firebase
           - Framework control using Cocoa Pods
@@ -146,15 +146,15 @@ experiences:
         time: 2013 - 2014
         company: UNAM Mobile
         details: |
-          Application development with innovative technologies like speech recognition, second screen, Geolocation and reality augmented on iOS devices; lecturer and instructor.
+          Application development with innovative technologies like speech recognition, second screen, geolocation and reality augmented on iOS devices.
   
-          I have made the app TellMeColors which allowed recognition the names of colours in english.
+          I made the app TellMeColors which allowed recognition the names of some colors in english.
 
-          I have made the beta version of Futline that allowed interactions with the football games in real time using second screen technology.
+          I made the beta version of Futline that allowed interactions with the football games in real time using second screen technology.
 
-          Maintenance the app misAvisos for iOS7 which is an app for the National System of Civil Protection for help people in naturals disasters.
+          Maintenance the app MisAvisos in iOS7 which is an app for the National System of Civil Protection for help people in naturals disasters.
           
-          Instructor of courses basic IOS.
+          Instructor of iOS basic courses.
           
           Lecturer in the Tour University Mobile 2013 in Monterrey announcing the app Futline.
 
